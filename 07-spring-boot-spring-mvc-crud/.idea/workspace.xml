@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1824b0f6-ca8a-47f1-8f19-a163115b5cb3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/01-spring-boot-rest-crud/src/main/java/com/luv2code/demo/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/01-spring-boot-rest-crud/src/main/java/com/luv2code/demo/rest/DemoRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/01-spring-boot-rest-crud/src/main/java/com/luv2code/demo/rest/StudentErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/01-spring-boot-rest-crud/src/main/java/com/luv2code/demo/rest/StudentNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/01-spring-boot-rest-crud/src/main/java/com/luv2code/demo/rest/StudentRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/01-spring-boot-rest-crud/src/main/java/com/luv2code/demo/rest/StudentRestExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeDAOJpaImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/rest/EmployeeRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/02-spring-boot-rest-crud-employee/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04-spring-boot-rest-crud/03-spring-boot-rest-crud-employee - with-spring-data-jpa/src/main/java/com/luv2code/springboot/cruddemo/dao/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/src/main/java/com/luv2code/springboot/cruddemo/security/DemoSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-spring-boot-spring-mvc/validationdemo/src/main/java/com/luv2code/springdemo/mvc/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-spring-boot-spring-mvc/validationdemo/src/main/java/com/luv2code/springdemo/mvc/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-spring-boot-spring-mvc/validationdemo/src/main/java/com/luv2code/springdemo/mvc/validation/CourseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-spring-boot-spring-mvc/validationdemo/src/main/java/com/luv2code/springdemo/mvc/validation/CourseCodeConstraintValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-spring-boot-spring-mvc/validationdemo/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-spring-boot-spring-mvc/validationdemo/src/main/resources/templates/customer-confirmation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-spring-boot-spring-mvc/validationdemo/src/main/resources/templates/customer-form.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2pDg7Zp6yZS12VfUcBvZEoKM3wc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lenovo/Desktop/spring boot/07-spring-boot-spring-mvc-crud/00-spring-boot-spring-mvc-crud-starter-code",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1824b0f6-ca8a-47f1-8f19-a163115b5cb3" name="Changes" comment="" />
+      <created>1732305894234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732305894234</updated>
+      <workItem from="1732305895953" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

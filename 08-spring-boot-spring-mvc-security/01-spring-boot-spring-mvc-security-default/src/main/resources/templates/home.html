@@ -1,10 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>luv2code Company Home </title>
 </head>
 <body>
-$END$
+<h2> luv2code Company Home Page - YOOHOO!!!!</h2>
+<hr>
+<p>
+Welcome to the luv2code Company Home Page
+</p>
+<hr>
+<!-- display user name and role -->
+<p>
+    User: <span sec:authentication="principal.username"></span>
+    <br><br>
+    Role(s):<span sec:authentication="principal.authorities"></span>
+
+</p>
+
+<div  sec:authorize="hasRole('MANAGER')">
+    <hr>
+<!-- Add a link to point to /leaders... this is for the managers -->
+<p>
+    <a th:href="@{/leaders}">Leadership meeting</a>
+    (only for Manager peeps)
+</p>
+</div>
+<div  sec:authorize="hasRole('ADMIN')">
+<p>
+    <a th:href="@{/systems}">IT Systems meeting</a>
+    (only for Admin peeps)
+</p>
+</div>
+<hr>
+<!-- Add a logout button-->
+<form   action="#"  th:action="@{/logout}" method="post">
+    <input type="submit" value="Logout"/>
+</form>
 </body>
 </html>
